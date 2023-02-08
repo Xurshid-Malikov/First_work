@@ -1,0 +1,1 @@
+export * from "./Sotib_olingan_kurs";
